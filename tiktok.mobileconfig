@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>PayloadDescription</key>
+      <string>Adds a TikTok Followers shortcut to your home screen.</string>
+      <key>PayloadDisplayName</key>
+      <string>TikTok Followers Pro</string>
+      <key>PayloadIdentifier</key>
+      <string>com.rogulux.tiktokfollowerspro.webclip</string>
+      <key>PayloadType</key>
+      <string>com.apple.webClip.managed</string>
+      <key>PayloadUUID</key>
+      <string>1A2B3C4D-5E6F-7081-920A-1B2C3D4E5F60</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+      <key>IsRemovable</key>
+      <false/>
+      <key>Label</key>
+      <string>TikTok Followers</string>
+      <key>URL</key>
+      <string>https://rogulux.github.io/TikTok-All-social-media-Followers-free/</string>
+      <key>Precomposed</key>
+      <true/>
+      <key>FullScreen</key>
+      <true/>
+    </dict>
+  </array>
+  <key>PayloadDisplayName</key>
+  <string>TikTok Followers Profile</string>
+  <key>PayloadIdentifier</key>
+  <string>com.rogulux.tiktokfollowerspro</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>12345678-90AB-CDEF-1234-567890ABCDEF</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
